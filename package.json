@@ -35,7 +35,7 @@
     "node-fetch": "^2.1.2",
     "prettier": "^1.13.7",
     "pretty-quick": "^1.6.0",
-    "tar": "^4.4.4",
+    "tar": "^6.2.1",
     "tar-stream": "^1.6.1",
     "unzipper": "github:ZJONSSON/node-unzipper#bad-zip-working"
   }
